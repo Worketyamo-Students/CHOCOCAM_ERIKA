@@ -1,0 +1,262 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    align-items: center;
+    padding: 1rem 2.8rem;
+    /* ou margin: 10px 28px */
+}
+#logo1{
+    width: 173px;
+    height: 82px;
+}
+
+.navigue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    list-style: none;
+}
+
+li{
+    font-size: 24px;
+}
+
+.contact{
+    background: #443434;
+    color: white;
+    border: none;
+    font-size: 24px;
+    width: 15.8rem;
+    height: 6.3rem;
+}
+
+.passion{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 71px;
+    margin-right: 0px;
+}
+
+.text{
+    width: 553.8px;
+    height: 386px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-right: 48.8px;
+}
+
+h1{
+    margin: 25px 0;
+    font-size: 48px;
+
+}
+#p1{
+    font-size: 24px;
+}
+
+.commande{
+    background: #443434;
+    color: white;
+    padding: 15px 25px;
+    border: none;
+    font-size: 30px;
+    width: 45.2rem;
+    height: 8.5rem;
+}
+
+#chocolat1{
+    width: 675px;
+    height: 792px;
+}
+
+.meilleur{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 88px 150px 91px;
+    height: 613px;
+    font-size: 55px;
+
+}
+.about{
+    width: 575px;
+    height: 376px;
+}
+
+.about img{
+    width: 400px;
+    height: 613px;
+}
+
+h2{
+    margin: 119px 0px 59px 126px;
+    width: 575px;
+}
+
+#p2{
+    width: 275px;
+    margin: 59px 30px 118px 126px;
+    font-size: 24px;
+}
+
+.statut{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #443434;
+    color: white;
+    height: 489px;
+}
+
+.statut h3{
+    font-size: 55px;
+}
+
+.statut p{
+    font-size: 24px;
+}
+
+.produit{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 144px 148px 197px 26px;
+}
+.produit1 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#big {
+    position: absolute;
+    margin-bottom: 65px;
+}
+
+#vector3{
+    width: 461px;
+    height: 363px;
+    margin-bottom: 65px;
+}
+
+.produit2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  position: relative;
+}
+
+#tartinat {
+  position: absolute;
+  margin-bottom: 65px;
+}
+
+#vector{
+    width: 447px;
+    height: 412px;
+    margin-bottom: 65px;
+}
+
+.produit3 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mambo {
+  position: absolute;
+  margin-bottom: 65px;
+}
+
+#vector2{
+    width: 579px;
+    height: 390px;
+    margin-bottom: 65px;
+}
+
+.produit4 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#bonbon {
+  position: absolute;
+  margin-bottom: 65px;
+}
+
+#vector1{
+    width: 425px;
+    height: 392px;
+    margin-bottom: 65px;
+}
+
+.form{
+    height: 923px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #DFCECE;
+    align-items: center;
+    margin-bottom: 447px;
+}
+
+#text1{
+    margin: 164px 301px 76px 279px;
+    width: 700px;
+    height: 96px;
+}
+
+#text2{
+    width: 338px;
+    height: 96px;
+}
+
+#text3{
+     width: 317px;
+    height: 96px;
+}
+
+#text4{
+    margin: 76px 301px 91px 279px;
+    width: 700px;
+    height: 96px;
+}
+
+.ligne{
+    display: flex;
+    margin-left: 429px;
+    margin-right: 451px;
+    gap: 45px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.envoyer{
+    width: 518px;
+    height: 96px;
+    background-color: #443434;
+    color: white;
+    padding: 12px;
+    border: none;
+    font-size: 40px;
+    margin: 0px 381px 0px 381px;
+}
+
+footer{
+    background-color: #443434;
+    height: 647px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer img{
+    width: 664px;
+}
